@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dico!</string>
+
+    <string name="title_home">Dico.</string>
+    <string name="title_dashboard">Infos</string>
+    <string name="title_notifications">Scrabble!</string>
+
+    <string name="search_text">Go!</string>
+    <string name="search_title">search word..</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scrabble_fragment">scrabble fragment..</string>
+    <string name="infos_fragment">infos fragment..</string>
+    <string name="title_infos">Infos</string>
+    <string name="save_text">Save!</string>
+    <string name="title_scrabble">Scrabble!</string>
+    <string name="txt_related">Synonymes</string>
+</resources>
